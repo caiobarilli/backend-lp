@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_page_social_networks",
+  "info": {
+    "name": "socialNetworks",
+    "icon": "angle-double-down"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string",
+      "required": true
+    },
+    "socialNetwork": {
+      "type": "enumeration",
+      "enum": [
+        "facebook",
+        "instragram",
+        "linkedin",
+        "twitter"
+      ]
+    }
+  }
+}

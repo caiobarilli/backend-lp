@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_section_courses",
+  "info": {
+    "name": "sectionCourse",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "courses": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.courses",
+      "min": 6
+    }
+  }
+}

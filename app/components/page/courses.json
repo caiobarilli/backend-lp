@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_courses",
+  "info": {
+    "name": "courses",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_page_section_abouts",
+  "info": {
+    "name": "sectionAbout",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "text": {
+      "type": "richtext",
+      "required": true
+    },
+    "cardPlans": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.card-plans",
+      "required": true,
+      "min": 1
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_section_teams",
+  "info": {
+    "name": "sectionTeam",
+    "icon": "american-sign-language-interpreting",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "authors": {
+      "collection": "author"
+    }
+  }
+}

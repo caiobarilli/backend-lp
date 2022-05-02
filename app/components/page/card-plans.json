@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_page_card_plans",
+  "info": {
+    "name": "cardPlans",
+    "icon": "ambulance"
+  },
+  "options": {},
+  "attributes": {
+    "fullPrice": {
+      "type": "integer",
+      "required": true
+    },
+    "parcelPrice": {
+      "type": "integer",
+      "required": true
+    },
+    "price": {
+      "type": "integer"
+    },
+    "content": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
