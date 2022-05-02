@@ -2,7 +2,8 @@
   "collectionName": "components_page_section_modules",
   "info": {
     "name": "sectionModule",
-    "icon": "align-left"
+    "icon": "align-left",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -15,7 +16,7 @@
       "repeatable": true,
       "component": "page.modules",
       "required": true,
-      "min": 22
+      "min": 2
     }
   }
 }
