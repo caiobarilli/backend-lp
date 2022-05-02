@@ -2,13 +2,17 @@
   "collectionName": "components_page_card_plans",
   "info": {
     "name": "cardPlans",
-    "icon": "ambulance"
+    "icon": "ambulance",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "fullPrice": {
       "type": "integer",
       "required": true
+    },
+    "parcels": {
+      "type": "integer"
     },
     "parcelPrice": {
       "type": "integer",
