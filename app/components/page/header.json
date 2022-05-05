@@ -2,11 +2,12 @@
   "collectionName": "components_page_headers",
   "info": {
     "name": "header",
-    "icon": "ad"
+    "icon": "ad",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "titulo": {
+    "title": {
       "type": "string",
       "required": true
     },
