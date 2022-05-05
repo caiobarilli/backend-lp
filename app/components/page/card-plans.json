@@ -26,6 +26,12 @@
     "content": {
       "type": "richtext",
       "required": true
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "ButtonUrl": {
+      "type": "string"
     }
   }
 }

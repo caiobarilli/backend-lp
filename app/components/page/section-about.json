@@ -21,11 +21,6 @@
       "component": "page.card-plans",
       "required": true,
       "min": 1
-    },
-    "Button": {
-      "type": "component",
-      "repeatable": true,
-      "component": "page.button"
     }
   }
 }
